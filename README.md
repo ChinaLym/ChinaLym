@@ -1,6 +1,6 @@
 ### Hi~ I’m LiuYanming
 
-![hello](hello.gif)
+![hello](https://github.com/ChinaLym/ChinaLym/raw/master/hello.gif)
 
 - 💻 计算机热爱者
 - ❤ 最爱: `Java` 🚀 架构
