@@ -1,4 +1,13 @@
-### Hi there 👋
+### I’m LiuYanming 👋
+
+![hello](/img/hello.gif)
+
+- 💻 计算机热爱者
+- ❤ 最爱: `Java` 🚀 架构
+- 🔨 目前参与: [Shoulder Framework](https://github.com/ChinaLym/Shoulder-Framework)
+- 🖊 [BLOG-博客](https://blog.csdn.net/qq_35425070/category_8283094.html)
+- 📫 [Email-电子邮件](mailto:cn_lym@foxmail.com)
+
 
 <!--
 **ChinaLym/ChinaLym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
