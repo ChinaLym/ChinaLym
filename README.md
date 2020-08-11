@@ -6,6 +6,7 @@
 - ❤ 最爱: `Java` 🚀 架构
 - 🔨 目前参与: [Shoulder Framework](https://github.com/ChinaLym/Shoulder-Framework)
 - 🖊 [BLOG-博客](https://blog.csdn.net/qq_35425070/category_8283094.html)
+- 🐵 [Gitee](https://gitee.com/ChinaLym)
 - 📫 [Email-电子邮件](mailto:cn_lym@foxmail.com)
 
 
