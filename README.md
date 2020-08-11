@@ -1,6 +1,6 @@
-### I’m LiuYanming 👋
+### Hi~ I’m LiuYanming
 
-![hello](/img/hello.gif)
+![hello](hello.gif)
 
 - 💻 计算机热爱者
 - ❤ 最爱: `Java` 🚀 架构
