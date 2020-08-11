@@ -2,7 +2,7 @@
 
 ![hello](https://github.com/ChinaLym/ChinaLym/raw/master/hello.gif)
 
-- 💻 计算机热爱者
+- 💻 专业: 计算机科学与技术
 - ❤ 最爱: `Java` 🚀 架构
 - 🔨 目前参与: [Shoulder Framework](https://github.com/ChinaLym/Shoulder-Framework)
 - 🖊 [BLOG-博客](https://blog.csdn.net/qq_35425070/category_8283094.html)
