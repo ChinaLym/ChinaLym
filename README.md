@@ -8,7 +8,7 @@
 - 🖊 [BLOG-博客](https://blog.csdn.net/qq_35425070/category_8283094.html)
 - 📫 [Email-邮箱](mailto:cn_lym@foxmail.com)
 - 😜 [github 主页](https://chinaLym.github.io)
-
+- 😎 [gitee 主页](https://gitee.com/chinaLym)
 
 <!--
 **ChinaLym/ChinaLym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
