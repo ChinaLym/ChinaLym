@@ -4,11 +4,15 @@
 
 - 💻 专业: 计算机科学与技术
 - ❤ 最爱: `Java` 🚀 架构
-- 🔨 开源: [Shoulder Framework](https://github.com/ChinaLym/Shoulder-Framework)
+- 🔥 开源: [Shoulder Platfrom](https://github.com/ChinaLym/shoulder-Platfrom)
+- 🏗️ 开源: [Shoulder Framework](https://github.com/ChinaLym/Shoulder-Framework)
+- ⚡ 开源: [100x Faster than `mvn versions`](https://github.com/ChinaLym/pom-update)
 - 🖊 [BLOG-博客](https://blog.csdn.net/qq_35425070/category_8283094.html)
-- 📫 [Email-邮箱](mailto:cn_lym@foxmail.com)
+- 📖 [开发经验](https://spec.itlym.cn/)
+- 📫 [Email-邮箱](mailto:cn_lym@foxmail.com) 可接收简历🐜
 - 😜 [github 主页](https://chinaLym.github.io)
 - 😎 [gitee 主页](https://gitee.com/chinaLym)
+
 
 <!--
 **ChinaLym/ChinaLym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
