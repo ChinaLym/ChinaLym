@@ -3,6 +3,7 @@
 ![hello](https://github.com/ChinaLym/ChinaLym/raw/master/hello.gif)
 
 - 💻 专业: 计算机科学与技术
+- ✊ 就职：Top3 Unicorn Company of Global
 - ❤ 最爱: `Java` 🚀 架构
 - 🔥 开源: [Shoulder Platfrom](https://github.com/ChinaLym/shoulder-Platfrom)
 - 🏗️ 开源: [Shoulder Framework](https://github.com/ChinaLym/Shoulder-Framework)
