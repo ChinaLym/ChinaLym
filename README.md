@@ -6,7 +6,7 @@
 - ✊ 就职：全球 Top3 互联网独角兽。Top3 Unicorn Company of Global
 - ❤ 最爱: `Java` 🚀 架构
 - 🔥 开源: [Shoulder Platfrom](https://github.com/ChinaLym/shoulder-Platfrom)
-- 🏗️ **开源: [Shoulder Framework](https://github.com/ChinaLym/Shoulder-Framework) 🚀🚀 `1.0.0` 版本即将发布（`1.0.0-M4`验证中）👀👀**
+- 🏗️ **开源: [Shoulder Framework](https://github.com/ChinaLym/Shoulder-Framework) 最新版 `1.0.0` 已发布，来试试吧🚀**
 - ⚡ 开源: [100x Faster than `mvn versions`](https://github.com/ChinaLym/pom-update)
 - 🖊 [BLOG-博客](https://blog.csdn.net/qq_35425070/category_8283094.html)
 - 📖 [开发经验 https://doc.itlym.cn](https://doc.itlym.cn/)
